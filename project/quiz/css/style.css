@@ -1,0 +1,29 @@
+/**{
+    margin: 0;
+    padding: 0;
+}*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.test{
+    width: 100%;
+}
+.container{
+    width:1200px;
+    margin: 0 auto;
+}
+.preview-block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: cadetblue;
+}
+h1{
+    font-size: 85px;
+    font-family: 'Black Han Sans', sans-serif;
+}
+.preview-block p{
+    font-size: 55px;
+    font-family: 'Black Han Sans', sans-serif;
+}
